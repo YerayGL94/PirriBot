@@ -14,7 +14,7 @@ import logging
 # token from config.py
 from config import token
 strings = ['Gol de Pirri']
-url = 'https://api.telegram.org/bot' + token + '/'
+url = 'https://api.telegram.org/bot' + 116631474:AAH2V24S9RClVMFOcMJnBeXyLWo0pmqUoU4 + '/'
 filename = 'offset.txt'  # updateID offset to prevent multiple responses
 logfilename = 'log.txt'  # logfile
 
