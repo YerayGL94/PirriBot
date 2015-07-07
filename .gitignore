@@ -1,6 +1,12 @@
+config.py
+*.txt
+
+# other python stuff:
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+*$py.class
 
 # C extensions
 *.so
@@ -55,3 +61,6 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# PyCharm
+.idea/
